@@ -1,4 +1,4 @@
-# zh2hackathon_-MindTwisters
+# Credit-Info
 
 #Problem Statement
 
