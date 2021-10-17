@@ -1,5 +1,10 @@
 # Credit-Info
 
+# Apk Link 
+
+Click Here [Credit Info](https://he-s3.s3.ap-southeast-1.amazonaws.com/media/sprint/zeta-hacks/team/1128454/859d793app_debug__1_.apk).
+
+
 #Problem Statement
 
 We know that the small shop owners many times comes across the situation when the customer buys 
